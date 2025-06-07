@@ -1,1 +1,1 @@
-system("ls");
+<script>alert(1);</script>
